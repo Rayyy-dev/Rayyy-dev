@@ -55,10 +55,7 @@
 
 ### 📊 GitHub Stats
 
-<!-- Dynamic GitHub Stats Card with animated graphs -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayyy-dev&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true&bg_color=1A1B27" alt="Rayyy-Dev's GitHub stats" />
-</p>
+
 
 <!-- Streak Stats (Animation for consistency streak) -->
 <p align="center">
