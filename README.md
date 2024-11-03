@@ -1,12 +1,23 @@
 <h1 align="center">
   Hi, I'm Ray! 🚀 <br> 
-  <span align="center">A Passionate Full Stack Developer </span>
+  <span align="center">A Passionate Full Stack Developer </span> <!-- Portfolio link with clear text and animated arrow -->
+<p align="center">
+  <a href="https://ray-portfolio-three.vercel.app/" target="_blank" style="text-decoration: underline;">
+    🔗 Check out my Portfolio
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <span>
+    <img src="https://user-images.githubusercontent.com/25181517/190694747-7b8ddf94-ade8-4d5a-8f42-6e5b7f4f02e5.gif" width="20" alt="Animated Right Arrow">
+  </span>
+</p>
+  
 </h1>
 
 <!-- Add a cool animated gif here if you'd like, such as a coding animation or something else that represents you! -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Open-source+Contributor;JavaScript+Lover+%F0%9F%92%80;Full+Stack+Developer+%F0%9F%94%A5;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG 3">
 </p>
+
 
 
 ---
