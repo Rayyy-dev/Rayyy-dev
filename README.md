@@ -1,6 +1,10 @@
 <h1 align="center">
   Hi, I'm Ray! 🚀 <br> 
-  <span align="center">A Passionate Full Stack Developer </span> <!-- Portfolio link with clear text and animated arrow -->
+  
+  <span align="center"><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FF5733&center=true&vCenter=true&width=500&lines=A+Passionate+Full+Stack+Developer+%F0%9F%94%A5;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG">
+</p>
+ </span> <!-- Portfolio link with clear text and animated arrow -->
 <p align="center">
   <a href="https://ray-portfolio-three.vercel.app/" target="_blank" style="text-decoration: underline;">
     🔗 Check out my Portfolio
@@ -14,9 +18,7 @@
 </h1>
 
 <!-- Add a cool animated gif here if you'd like, such as a coding animation or something else that represents you! -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Open-source+Contributor;JavaScript+Lover+%F0%9F%92%80;Full+Stack+Developer+%F0%9F%94%A5;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG 3">
-</p>
+
 
 
 
@@ -26,7 +28,9 @@
 - ⚙️ Currently working on **Next.js** and **MERN Stack** projects.
 - 🛠️ Experimenting with **Serverless Architecture**, **GraphQL**, and **Docker**.
 - 🎯 Actively learning **TypeScript**, **Cloud Computing**, and **Testing Frameworks**.
-- 🧩 **Portfolio**: In Progress... Stay tuned for something awesome!
+- 🧩 **Portfolio**:  <a href="https://ray-portfolio-three.vercel.app/" target="_blank" style="text-decoration: underline;">
+    ✨Here
+  </a>
 
 ---
 ### 🌐 Tech Stack & Tools
@@ -84,7 +88,7 @@
 
 <!-- These badges give an animated effect, unique and fun to stand out -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=500&lines=Let’s+Build+Something+Awesome!;Coding+is+Life+%F0%9F%92%BB;Full+Stack+Passion%21" alt="Typing SVG 2">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=500&lines=Let’s+Build+Something+Awesome!;" alt="Typing SVG 2">
 </p>
 
 
