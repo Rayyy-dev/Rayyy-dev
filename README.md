@@ -5,10 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FF5733&center=true&vCenter=true&width=500&lines=A+Passionate+Full+Stack+Developer+%F0%9F%94%A5;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG">
 </p>
  </span> <!-- Portfolio link with clear text and animated arrow -->
-<p align="center">
-  <a href="https://ray-portfolio-three.vercel.app/" target="_blank" style="text-decoration: underline;">
-    🔗 Check out my Portfolio
-  </a>
+
   <span>&nbsp;&nbsp;</span>
   <span>
     <img src="https://user-images.githubusercontent.com/25181517/190694747-7b8ddf94-ade8-4d5a-8f42-6e5b7f4f02e5.gif" width="20" alt="Animated Right Arrow">
