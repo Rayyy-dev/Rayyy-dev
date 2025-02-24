@@ -25,8 +25,8 @@
 - ⚙️ Currently working on **Next.js** and **MERN Stack** projects.
 - 🛠️ Experimenting with **Serverless Architecture**, **GraphQL**, and **Docker**.
 - 🎯 Actively learning **TypeScript**, **Cloud Computing**, and **Testing Frameworks**.
-- 🧩 **Portfolio**:  <a href="https://ray-portfolio-three.vercel.app/" target="_blank" style="text-decoration: underline;">
-    ✨Here
+  <!-- 🧩 **Portfolio**:  <a href="https://ray-portfolio-three.vercel.app/" target="_blank" style="text-decoration: underline;">*/ 
+    ✨Here -->
   </a>
 
 ---
