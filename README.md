@@ -71,7 +71,7 @@
 
 <!-- Streak Stats (Animation for consistency streak) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayyy-dev&theme=react&hide_border=true&fire=FF9011&ring=FF5722&background=1A1B27" alt="Rayyy-Dev's GitHub Streak Stats" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rayyy-dev" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Language Stats for showing tech stack diversity -->
